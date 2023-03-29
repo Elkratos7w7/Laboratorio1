@@ -4,4 +4,4 @@ print (no1)
 no2 = int  (input ("Ingrese un segundo digeto para realizar la suma"))
 print (no2)
 resultado = no1 + no2
-print (input (resultado))
+print (input (f"El resultado de la suma es {resultado}"))
