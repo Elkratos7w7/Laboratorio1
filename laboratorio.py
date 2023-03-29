@@ -19,3 +19,6 @@ no6 = int  (input ("Ingrese un segundo digeto para realizar la multiplicación")
 print (no6)
 resultadodelamulti = no5 * no6
 print (input (f"El resultado de la resta es {resultadodelamulti}"))
+
+no7 = int (input ("Ingrese un valor para empezar una Division "))
+print (no7)
