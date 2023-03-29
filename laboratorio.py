@@ -24,3 +24,5 @@ no7 = int (input ("Ingrese un valor para empezar una Division "))
 print (no7)
 no8 = int  (input ("Ingrese un segundo digeto para realizar la division"))
 print (no8)
+resultadodeladivi = no7 / no8
+print (input (f"El resultado de la divison es {resultadodeladivi}"))
